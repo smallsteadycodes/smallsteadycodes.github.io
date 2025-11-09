@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: '프리랜서 개발자 이은진',
     description:
-      'ERP·공공 시스템 중심 프리랜서 백엔드 개발자 이은진의 포트폴리오입니다. Java와 Python 기반의 안정적인 시스템 개발 및 성능 최적화를 수행합니다.',
+      'ERP·공공 시스템 중심 프리랜서 개발자 이은진의 포트폴리오입니다. Java와 Python 기반의 안정적인 시스템 개발 및 성능 최적화를 수행합니다.',
     url: siteUrl,
     siteName: 'Eunjin Lee Portfolio',
     images: [{ url: '/preview.jpg', width: 600, height: 600, alt: '이은진 프로필' }],
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: '프리랜서 개발자 이은진',
     description:
-      'Java & Python 기반 ERP·공공 시스템 프리랜서 백엔드 개발자 포트폴리오',
+      'Java & Python 기반 ERP·공공 시스템 프리랜서 개발자 포트폴리오',
     images: ['/preview.jpg'],
     creator: '@smallsteadycode',
   },

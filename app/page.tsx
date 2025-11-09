@@ -192,14 +192,14 @@ export default function Page() {
                 대용량 주문·재고·수불 처리: 트랜잭션 분할 · 인덱스 · SQL 튜닝 · 페이징 적용 (조회 기준 30분 → 2분 30초)
               </li>
               <li>서비스 안정화: 예외처리 로직 개선, 에러메시지 공통화, 로그 모니터링 (월 평균 장애 4.75건 → 1.6건)</li>
-              <li>AI 기반 자동 발주 추천·시각화·알림 서비스 구현, 다국어 적용, 개인정보 암복호화</li>
+              <li>AI 기반 자동 주문 추천·시각화·알림 서비스 구현, 다국어 적용, 개인정보 암복호화</li>
             </ul>
           </div>
 
           {/* B2B 이커머스 연동 */}
           <div>
             <div className="flex flex-wrap items-baseline justify-between gap-2">
-              <h3 className="font-semibold text-gray-900">B2B 이커머스 플랫폼(MRO마켓)</h3>
+              <h3 className="font-semibold text-gray-900">B2B 이커머스 플랫폼 (MRO마켓)</h3>
               <span className="text-[13px] text-gray-500">2022.11 – 2023.01</span>
             </div>
             <p className="text-[13px] text-gray-600">JWT · Spring Batch</p>
@@ -212,7 +212,7 @@ export default function Page() {
           {/* 녹색건축 Codetect */}
           <div>
             <div className="flex flex-wrap items-baseline justify-between gap-2">
-              <h3 className="font-semibold text-gray-900">중소벤처기업부 창업성장기술개발사업(녹색건축플랫폼)</h3>
+              <h3 className="font-semibold text-gray-900">중소벤처기업부 창업성장기술개발사업 (녹색건축플랫폼)</h3>
               <span className="text-[13px] text-gray-500">2021.03 – 2021.10</span>
             </div>
             <p className="text-[13px] text-gray-600">Python · Django · MySQL · NGINX · AWS · Linux · OAuth2</p>
@@ -225,7 +225,7 @@ export default function Page() {
           {/* dBrain+ */}
           <div>
             <div className="flex flex-wrap items-baseline justify-between gap-2">
-              <h3 className="font-semibold text-gray-900">기획재정부 차세대 디지털예산회계시스템(dBrain+)</h3>
+              <h3 className="font-semibold text-gray-900">기획재정부 차세대 디지털예산회계시스템 (dBrain+)</h3>
               <span className="text-[13px] text-gray-500">2020.01 – 2021.01</span>
             </div>
             <p className="text-[13px] text-gray-600">Java · eGovFramework · Oracle · WebSquare</p>
@@ -319,21 +319,21 @@ export default function Page() {
         <div className="space-y-4">
           <div>
             <div className="flex flex-wrap items-baseline justify-between gap-2">
-              <h3 className="font-semibold text-gray-900">Duzon Bizon | SCM Development Unit | Senior Researcher</h3>
+              <h3 className="font-semibold text-gray-900">Douzone Bizon | SCM Development Unit | Full Stack developer</h3>
               <span className="text-[13px] text-gray-500">Nov 2021 – Jul 2025 (3 yrs 9 mos)</span>
             </div>
-            <p className="text-[13px] text-gray-600">Enterprise solution provider · Full‑stack development &amp; operations</p>
+            <p className="text-[13px] text-gray-600">Enterprise solution provider · Full stack development &amp; operations</p>
           </div>
           <div>
             <div className="flex flex-wrap items-baseline justify-between gap-2">
-              <h3 className="font-semibold text-gray-900">CODAA | Corporate R&amp;D Center | Researcher</h3>
+              <h3 className="font-semibold text-gray-900">CODAA | Corporate R&amp;D Center | Full Stack developer</h3>
               <span className="text-[13px] text-gray-500">Mar 2021 – Oct 2021 (8 mos)</span>
             </div>
             <p className="text-[13px] text-gray-600">Green‑building consulting company · Solution design &amp; full‑stack development</p>
           </div>
           <div>
             <div className="flex flex-wrap items-baseline justify-between gap-2">
-              <h3 className="font-semibold text-gray-900">ITEyes | Public Finance Division | Associate</h3>
+              <h3 className="font-semibold text-gray-900">ITEyes | Public Finance Division | Fronend developer</h3>
               <span className="text-[13px] text-gray-500">Dec 2019 – Jan 2021 (1 yr 2 mos)</span>
             </div>
             <p className="text-[13px] text-gray-600">Financial solutions company · Front‑end development</p>
@@ -344,10 +344,10 @@ export default function Page() {
       {/* Projects */}
       <Section id="projects" title="Projects">
         <div className="space-y-6">
-          {/* Duzon ERP SCM */}
+          {/* Douzone ERP SCM */}
           <div>
             <div className="flex flex-wrap items-baseline justify-between gap-2">
-              <h3 className="font-semibold text-gray-900">Duzon Bizon ERP SCM System</h3>
+              <h3 className="font-semibold text-gray-900">Douzone Bizon ERP SCM System</h3>
               <span className="text-[13px] text-gray-500">Nov 2021 – Jul 2025</span>
             </div>
             <p className="text-[13px] text-gray-600">Java · Spring Boot · Oracle · MariaDB · GitLab · JavaScript · Confluence · Jenkins · Kibana</p>
@@ -356,7 +356,7 @@ export default function Page() {
               <li>Unified multiple order channels: I/F messaging, batch jobs, groupware, Excel upload</li>
               <li>High‑volume order/inventory/ledger processing: applied transaction partitioning, indexing, SQL tuning, and paging (key query 30 min → 2 min 30 sec)</li>
               <li>Service stabilization: improved exception handling, standardized error messages, log monitoring (monthly incidents 4.75 → 1.6)</li>
-              <li>AI‑based automatic purchase recommendations, visualization &amp; alerts; multi‑language; personal data encryption/decryption</li>
+              <li>AI‑based automatic order recommendations · visualization · alerts, multi‑language, personal data encryption/decryption</li>
             </ul>
           </div>
 
@@ -397,7 +397,7 @@ export default function Page() {
               <li>Developed the budgeting module for a system handling ~KRW 500T annual expenditures</li>
               <li>Produced TO‑BE designs based on AS‑IS analysis and implemented features</li>
               <li>Built automated reporting for annual/mid‑term/supplementary budgets with Clip Report</li>
-              <li>Digitized budget request &amp; review workflows; first adoption of Web‑HWP editor integration</li>
+              <li>Digitized budget request &amp; review workflows, first adoption of Web‑HWP editor integration</li>
             </ul>
           </div>
         </div>
@@ -419,13 +419,6 @@ export default function Page() {
           </div>
         </div>
       </Section>
-
-      {/* Print button (screen only) */}
-      <div className="mt-10 flex justify-end print:hidden">
-        <button onClick={() => window.print()} className="rounded-lg border px-3 py-2 text-sm shadow-sm transition hover:shadow">
-          Print / Save as PDF
-        </button>
-      </div>
     </>
   );
 
